@@ -6,4 +6,3 @@ We’re always on the lookout for talented individuals. If you're building somet
 🌐 **Website:** [https://cubit.com.np](https://cubit.com.np)  
  **<img width="14" src="/icons/linkedin.png" /> Linkedin:** [@cubit-inc](https://www.linkedin.com/company/cubit-inc-np)  
 
----
